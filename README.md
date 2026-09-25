@@ -10,4 +10,4 @@ I build open source developer tools through Metcalfe Software and write about pr
 
 ## Writing and contact
 
-You can find my [books and resources](https://selar.com/m/metcalfesoftware), connect with me on [LinkedIn](https://www.linkedin.com/in/StephenMetcalfeZA), or [send me an email](mailto:raithlin@gmail.com).
+You can find my [books and resources](https://selar.com/m/metcalfesoftware) or connect with me on [LinkedIn](https://www.linkedin.com/in/StephenMetcalfeZA).
