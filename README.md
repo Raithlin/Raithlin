@@ -1,20 +1,13 @@
-### Hi there 👋
+# Stephen Metcalfe
 
-Read more about me at [github.io](https://raithlin.github.io/github.io).
+I build open source developer tools through Metcalfe Software and write about practical ways to work with AI in software development. I’m based in South Africa.
 
-<a href="https://app.daily.dev/raithlin"><img src="https://api.daily.dev/devcards/v2/JOHh169mT4i4FpObBO5MT.png?type=default&r=lml" width="356" alt="Stephen Metcalfe's Dev Card"/></a>
-<!--
-**Raithlin/Raithlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected work
 
-Here are some ideas to get you started:
+- **[GHA](https://github.com/Raithlin/gha)** — A GitHub assistant that helps coding agents and developers make sense of repository, pull request, and CI signals.
+- **[The AI Code Review Protocol checklist](https://github.com/Raithlin/ai-code-review-protocol)** — A free companion to my book on reviewing AI-generated code.
+- **[pi-bedrock-auto-auth](https://github.com/Raithlin/pi-bedrock-auto-auth)** — A Pi extension that handles AWS SSO reauthentication for Bedrock providers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Writing and contact
 
+You can find my [books and resources](https://selar.com/m/metcalfesoftware), connect with me on [LinkedIn](https://www.linkedin.com/in/StephenMetcalfeZA), or [send me an email](mailto:raithlin@gmail.com).
